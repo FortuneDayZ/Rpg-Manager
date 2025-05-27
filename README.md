@@ -109,4 +109,4 @@ Rpg-Manager/
 
 *(You can add your chosen license here, e.g., MIT License)*
 
-This project is licensed under the MIT License - see the LICENSE.md file for details (if applicabl
+This project is licensed under the MIT License - see the LICENSE.md file for details (if applicable).
