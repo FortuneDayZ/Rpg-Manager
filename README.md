@@ -29,26 +29,6 @@
 
 ---
 
-## 🛠️ Technologies Used
-
-- **Language**: Swift
-- **Frameworks**: SwiftUI, SwiftData
-- **Architecture**: MVVM-inspired modular components
-- **Custom Views**: GlassmorphicButton, HeroImageView, LabeledTextField
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository to your Mac using:
-   ```bash
-   git clone https://github.com/YourUsername/RPG-Manager.git
-   ```
-2. Open the `.xcodeproj` file in Xcode.
-3. Run on a simulator or connected iOS device.
-
----
-
 ## 🖼️ Screenshots
 
 ### 1. Welcome Screen  
@@ -76,6 +56,26 @@ Update any previously created character, with stat validation and image previews
 Browse through completed and pending characters, each with its own preview card.
 
 <img src="https://github.com/FortuneDayZ/Rpg-Manager/blob/main/Screenshots/load.png?raw=true" width="250" />
+
+---
+
+## 🛠️ Technologies Used
+
+- **Language**: Swift
+- **Frameworks**: SwiftUI, SwiftData
+- **Architecture**: MVVM-inspired modular components
+- **Custom Views**: GlassmorphicButton, HeroImageView, LabeledTextField
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository to your Mac using:
+   ```bash
+   git clone https://github.com/YourUsername/RPG-Manager.git
+   ```
+2. Open the `.xcodeproj` file in Xcode.
+3. Run on a simulator or connected iOS device.
 
 ---
 
